@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ksgOBi+7r82VvR10WzmmNa4up1kd5NT6h4UoQOMp2c0aYpmJYMFOUyG2qL5VRMa1T+llhZtJth0nFXuvEv98HA==",
+  "dgSpecHash": "LkF1wIFjEfYe9YrNMGJvqSa//LwduIk2SOaF3mt9tu9I/wX6B0gSMvMrW4PQzGNOKjrWs1ZAW/V9ZC3dYj+bTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ACT\\Development\\QrWeb\\QrWeb.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACT\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
