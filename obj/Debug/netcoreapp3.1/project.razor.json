@@ -14422,6 +14422,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\QrCode.cshtml",
+      "TargetPath": "Pages\\QrCode.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
