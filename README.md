@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é um gerador de QR Code com ASP.NET Core utilizando a linguagem C# feito através do vídeo do educador [André Baltieri](https://balta.io/)
+O projeto é um gerador de QR Code com ASP.NET Core
 
 ## 🚀 Como executar
 
