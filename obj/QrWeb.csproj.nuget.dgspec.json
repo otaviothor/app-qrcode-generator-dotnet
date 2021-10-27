@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACT\\Development\\QrWeb\\QrWeb.csproj": {}
+    "C:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\QrWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACT\\Development\\QrWeb\\QrWeb.csproj": {
+    "C:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\QrWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACT\\Development\\QrWeb\\QrWeb.csproj",
+        "projectUniqueName": "C:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\QrWeb.csproj",
         "projectName": "QrWeb",
-        "projectPath": "C:\\Users\\ACT\\Development\\QrWeb\\QrWeb.csproj",
+        "projectPath": "C:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\QrWeb.csproj",
         "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACT\\Development\\QrWeb\\obj\\",
+        "outputPath": "C:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACT\\AppData\\Roaming\\NuGet\\NuGet.Config"

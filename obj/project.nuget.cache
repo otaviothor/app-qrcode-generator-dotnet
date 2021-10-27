@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pc5OhniM67qiICaK2qt+jC99Nv0hwlSnHHXO0G2aC/FXv87167/mOaGwuHCRAXLoQOJC330mM7u9xu/ZhjK7vw==",
+  "dgSpecHash": "fIXbupNhK7aJ0FGPO2A4FTHMPs0MgV87JTeB2ZJOODByRGzeqrzSNN1ZNniev9gKI2Ya3Fu61ANXCUzTkzG8wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACT\\Development\\QrWeb\\QrWeb.csproj",
+  "projectFilePath": "C:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\QrWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACT\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ACT\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

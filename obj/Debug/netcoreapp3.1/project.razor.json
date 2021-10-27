@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\QrWeb.csproj",
+  "FilePath": "c:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\QrWeb.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,43 +14402,43 @@
   "RootNamespace": "QrWeb",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\QrCode.cshtml",
-      "TargetPath": "Pages\\QrCode.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ACT\\Development\\QrWeb\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ACT\\Development\\qrcode-generator-dotnet\\Pages\\QrCode.cshtml",
+      "TargetPath": "Pages\\QrCode.cshtml",
       "FileKind": "mvc"
     }
   ],
