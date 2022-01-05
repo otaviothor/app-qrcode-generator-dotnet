@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é um gerador de QR Code com ASP.NET Core
+O projeto é um gerador de QR Code com ASP.NET Core.
 
 ## 🚀 Como executar
 
@@ -16,7 +16,7 @@ O projeto é um gerador de QR Code com ASP.NET Core
 - Instale as dependências com `dotnet restore`
 - Inicie o servidor com `dotnet watch run`
 
-Agora você pode acessar [`https://localhost:5001?url=https://github.com/otaviothor`](https://localhost:5001?url=https://github.com/otaviothor) do seu navegador passando uma query string url com o link de algo que deseja gerar o QR Code
+Agora você pode acessar [`https://localhost:5001?url=https://github.com/otaviothor`](https://localhost:5001?url=https://github.com/otaviothor) do seu navegador passando uma query string url com o link de algo que deseja gerar o QR Code.
 
 ## 📄 Licença
 
@@ -24,4 +24,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito por [otávio silva](https://otaviothor.github.io/) 🙃
+Feito por [otávio silva](https://otaviosilva.dev/) 🙃
